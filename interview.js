@@ -1,0 +1,1 @@
+const str = "aaaadeeffbbbaabccc" // output: ‘a4d1e2f2b3a2b1c3’
